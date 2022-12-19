@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+
+table{
+    border-collapse: collapse;
+    width: 50%
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: right;
+    
+}
+
+.la{
+    text-align: left;
+}
+
+#firstrow{
+    background-color: rgba(165, 42, 42, 0.788);
+}
+
+#secondrow{
+    background-color: rgba(205, 92, 92, 0.712);
+}
+
+#thirdrow{
+    background-color: burlywood;
+}
+
+#forthrow{
+    background-color: rgba(128, 128, 128, 0.664);
+}
